@@ -158,7 +158,9 @@ class _MatchIslandState extends ConsumerState<MatchIsland> {
     );
 
     final open = Padding(
-      padding: const EdgeInsets.fromLTRB(20, 13, 10, 12),
+      // The open pill has deep round corners: the text keeps well inside
+      // them, or the first line sits in the curve.
+      padding: const EdgeInsets.fromLTRB(30, 18, 14, 17),
       child: Row(
         children: [
           Expanded(
@@ -219,14 +221,14 @@ class _MatchIslandState extends ConsumerState<MatchIsland> {
         // The pill's shadow falls outside its box: do not cut it.
         clipBehavior: Clip.none,
         child: MorphingIsland(
-          maxHeight: _open ? 100 : MorphingIsland.compactHeight + 8,
+          maxHeight: _open ? 116 : MorphingIsland.compactHeight + 8,
           onTap: () {
             HapticFeedback.selectionClick();
             if (_open) openMatch(context, id);
             setState(() => _open = !_open);
           },
           view: _open
-              ? IslandView(id: 'open', size: Size(width, 92), child: open)
+              ? IslandView(id: 'open', size: Size(width, 108), child: open)
               : IslandView(
                   id: 'compact',
                   size: Size(
