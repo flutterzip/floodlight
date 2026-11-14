@@ -1,0 +1,14 @@
+{
+  "demoEmail": "hello@flutterzip.com",
+  "wrongPassword": "wrongpass",
+  "following": ["nga", "lag", "cbs"],
+  "picks": [
+    {"competition": "cpl", "round": 1, "fixture": 0, "choice": "home"},
+    {"competition": "abl", "round": 1, "fixture": 1, "choice": "away"},
+    {"competition": "cpl", "round": -1, "fixture": 0, "choice": "right"},
+    {"competition": "abl", "round": -1, "fixture": 0, "choice": "right"},
+    {"competition": "t20", "round": -1, "fixture": 2, "choice": "wrong"},
+    {"competition": "union", "round": -1, "fixture": 1, "choice": "right"}
+  ],
+  "recentSearches": ["Northgate", "Lagos Tide", "Super Twenty"]
+}

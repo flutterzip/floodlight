@@ -1,0 +1,3650 @@
+[
+ {
+  "id": "nga",
+  "name": "Northgate Athletic",
+  "short": "NGA",
+  "city": "Northgate",
+  "ground": "Gatehouse Park",
+  "sport": "football",
+  "rating": 86,
+  "formation": "4-3-3",
+  "crest": {
+   "pattern": "halves",
+   "tint": 6
+  },
+  "squad": [
+   {
+    "id": "nga-1",
+    "name": "Obi Navarro",
+    "number": 1,
+    "role": "GK",
+    "rating": 86
+   },
+   {
+    "id": "nga-2",
+    "name": "Milan Vidal",
+    "number": 30,
+    "role": "DF",
+    "rating": 89
+   },
+   {
+    "id": "nga-3",
+    "name": "Chidi Teixeira",
+    "number": 20,
+    "role": "DF",
+    "rating": 93
+   },
+   {
+    "id": "nga-4",
+    "name": "Yusuf Eze",
+    "number": 13,
+    "role": "DF",
+    "rating": 82
+   },
+   {
+    "id": "nga-5",
+    "name": "Baba Ward",
+    "number": 11,
+    "role": "DF",
+    "rating": 85
+   },
+   {
+    "id": "nga-6",
+    "name": "Rafael Okafor",
+    "number": 26,
+    "role": "MF",
+    "rating": 89
+   },
+   {
+    "id": "nga-7",
+    "name": "Andre Weller",
+    "number": 18,
+    "role": "MF",
+    "rating": 85
+   },
+   {
+    "id": "nga-8",
+    "name": "Chidi Cole",
+    "number": 28,
+    "role": "MF",
+    "rating": 89
+   },
+   {
+    "id": "nga-9",
+    "name": "Niko Boateng",
+    "number": 6,
+    "role": "FW",
+    "rating": 92
+   },
+   {
+    "id": "nga-10",
+    "name": "Leon Keller",
+    "number": 9,
+    "role": "FW",
+    "rating": 85
+   },
+   {
+    "id": "nga-11",
+    "name": "Obi Castell",
+    "number": 7,
+    "role": "FW",
+    "rating": 92
+   },
+   {
+    "id": "nga-12",
+    "name": "Yusuf Moreau",
+    "number": 3,
+    "role": "GK",
+    "rating": 81
+   },
+   {
+    "id": "nga-13",
+    "name": "Theo Hale",
+    "number": 31,
+    "role": "DF",
+    "rating": 76
+   },
+   {
+    "id": "nga-14",
+    "name": "Chidi Marin",
+    "number": 15,
+    "role": "DF",
+    "rating": 80
+   },
+   {
+    "id": "nga-15",
+    "name": "Niko Musa",
+    "number": 17,
+    "role": "MF",
+    "rating": 80
+   },
+   {
+    "id": "nga-16",
+    "name": "Oscar Rossi",
+    "number": 33,
+    "role": "MF",
+    "rating": 75
+   },
+   {
+    "id": "nga-17",
+    "name": "Obi Lindqvist",
+    "number": 34,
+    "role": "FW",
+    "rating": 78
+   },
+   {
+    "id": "nga-18",
+    "name": "Jonas Fontaine",
+    "number": 36,
+    "role": "FW",
+    "rating": 80
+   }
+  ]
+ },
+ {
+  "id": "hbc",
+  "name": "Harbour City",
+  "short": "HBC",
+  "city": "Harbour City",
+  "ground": "The Quay",
+  "sport": "football",
+  "rating": 83,
+  "formation": "4-3-3",
+  "crest": {
+   "pattern": "quarters",
+   "tint": 0
+  },
+  "squad": [
+   {
+    "id": "hbc-1",
+    "name": "Sani Brandt",
+    "number": 1,
+    "role": "GK",
+    "rating": 89
+   },
+   {
+    "id": "hbc-2",
+    "name": "Chidi Ibe",
+    "number": 19,
+    "role": "DF",
+    "rating": 89
+   },
+   {
+    "id": "hbc-3",
+    "name": "Rafael Whitlock",
+    "number": 38,
+    "role": "DF",
+    "rating": 78
+   },
+   {
+    "id": "hbc-4",
+    "name": "Hugo Keller",
+    "number": 30,
+    "role": "DF",
+    "rating": 89
+   },
+   {
+    "id": "hbc-5",
+    "name": "Samir Boateng",
+    "number": 6,
+    "role": "DF",
+    "rating": 84
+   },
+   {
+    "id": "hbc-6",
+    "name": "Oscar Larsen",
+    "number": 5,
+    "role": "MF",
+    "rating": 84
+   },
+   {
+    "id": "hbc-7",
+    "name": "Oscar Castell",
+    "number": 3,
+    "role": "MF",
+    "rating": 81
+   },
+   {
+    "id": "hbc-8",
+    "name": "Elias Mensah",
+    "number": 11,
+    "role": "MF",
+    "rating": 87
+   },
+   {
+    "id": "hbc-9",
+    "name": "Milan Duarte",
+    "number": 13,
+    "role": "FW",
+    "rating": 84
+   },
+   {
+    "id": "hbc-10",
+    "name": "Leon Sarr",
+    "number": 39,
+    "role": "FW",
+    "rating": 88
+   },
+   {
+    "id": "hbc-11",
+    "name": "Samir Teixeira",
+    "number": 16,
+    "role": "FW",
+    "rating": 81
+   },
+   {
+    "id": "hbc-12",
+    "name": "Milan Musa",
+    "number": 12,
+    "role": "GK",
+    "rating": 78
+   },
+   {
+    "id": "hbc-13",
+    "name": "Mateo Marin",
+    "number": 35,
+    "role": "DF",
+    "rating": 79
+   },
+   {
+    "id": "hbc-14",
+    "name": "Reece Adeyemi",
+    "number": 33,
+    "role": "DF",
+    "rating": 71
+   },
+   {
+    "id": "hbc-15",
+    "name": "Luca Eze",
+    "number": 23,
+    "role": "MF",
+    "rating": 76
+   },
+   {
+    "id": "hbc-16",
+    "name": "Callum Hale",
+    "number": 27,
+    "role": "MF",
+    "rating": 73
+   },
+   {
+    "id": "hbc-17",
+    "name": "Luca Okafor",
+    "number": 10,
+    "role": "FW",
+    "rating": 75
+   },
+   {
+    "id": "hbc-18",
+    "name": "Joao Onuoha",
+    "number": 26,
+    "role": "FW",
+    "rating": 74
+   }
+  ]
+ },
+ {
+  "id": "iru",
+  "name": "Ironbridge United",
+  "short": "IRU",
+  "city": "Ironbridge",
+  "ground": "Foundry Lane",
+  "sport": "football",
+  "rating": 80,
+  "formation": "3-5-2",
+  "crest": {
+   "pattern": "hoops",
+   "tint": 2
+  },
+  "squad": [
+   {
+    "id": "iru-1",
+    "name": "Baba Okoro",
+    "number": 1,
+    "role": "GK",
+    "rating": 76
+   },
+   {
+    "id": "iru-2",
+    "name": "Joao Petrov",
+    "number": 19,
+    "role": "DF",
+    "rating": 81
+   },
+   {
+    "id": "iru-3",
+    "name": "Elias Onyeka",
+    "number": 21,
+    "role": "DF",
+    "rating": 80
+   },
+   {
+    "id": "iru-4",
+    "name": "Chidi Adeyemi",
+    "number": 18,
+    "role": "DF",
+    "rating": 86
+   },
+   {
+    "id": "iru-5",
+    "name": "Baba Larsen",
+    "number": 27,
+    "role": "MF",
+    "rating": 80
+   },
+   {
+    "id": "iru-6",
+    "name": "Hugo Ward",
+    "number": 35,
+    "role": "MF",
+    "rating": 75
+   },
+   {
+    "id": "iru-7",
+    "name": "Theo Onuoha",
+    "number": 25,
+    "role": "MF",
+    "rating": 76
+   },
+   {
+    "id": "iru-8",
+    "name": "Reece Marin",
+    "number": 31,
+    "role": "MF",
+    "rating": 77
+   },
+   {
+    "id": "iru-9",
+    "name": "Jonas Duarte",
+    "number": 7,
+    "role": "MF",
+    "rating": 87
+   },
+   {
+    "id": "iru-10",
+    "name": "Jonas Price",
+    "number": 11,
+    "role": "FW",
+    "rating": 84
+   },
+   {
+    "id": "iru-11",
+    "name": "Samir Okafor",
+    "number": 17,
+    "role": "FW",
+    "rating": 84
+   },
+   {
+    "id": "iru-12",
+    "name": "Joao Hale",
+    "number": 36,
+    "role": "GK",
+    "rating": 76
+   },
+   {
+    "id": "iru-13",
+    "name": "Sani Eze",
+    "number": 24,
+    "role": "DF",
+    "rating": 78
+   },
+   {
+    "id": "iru-14",
+    "name": "Tunde Mensah",
+    "number": 39,
+    "role": "DF",
+    "rating": 69
+   },
+   {
+    "id": "iru-15",
+    "name": "Niko Reyes",
+    "number": 22,
+    "role": "MF",
+    "rating": 74
+   },
+   {
+    "id": "iru-16",
+    "name": "Samir Sarr",
+    "number": 16,
+    "role": "MF",
+    "rating": 73
+   },
+   {
+    "id": "iru-17",
+    "name": "Niko Bello",
+    "number": 14,
+    "role": "FW",
+    "rating": 78
+   },
+   {
+    "id": "iru-18",
+    "name": "Mateo Keller",
+    "number": 20,
+    "role": "FW",
+    "rating": 67
+   }
+  ]
+ },
+ {
+  "id": "smr",
+  "name": "Saltmarsh Rovers",
+  "short": "SMR",
+  "city": "Saltmarsh",
+  "ground": "Tidewater Ground",
+  "sport": "football",
+  "rating": 76,
+  "formation": "4-3-3",
+  "crest": {
+   "pattern": "chevron",
+   "tint": 3
+  },
+  "squad": [
+   {
+    "id": "smr-1",
+    "name": "Niko Rossi",
+    "number": 1,
+    "role": "GK",
+    "rating": 71
+   },
+   {
+    "id": "smr-2",
+    "name": "Andre Lindqvist",
+    "number": 18,
+    "role": "DF",
+    "rating": 78
+   },
+   {
+    "id": "smr-3",
+    "name": "Oscar Fontaine",
+    "number": 3,
+    "role": "DF",
+    "rating": 79
+   },
+   {
+    "id": "smr-4",
+    "name": "Emeka Keller",
+    "number": 16,
+    "role": "DF",
+    "rating": 76
+   },
+   {
+    "id": "smr-5",
+    "name": "Luca Moreau",
+    "number": 9,
+    "role": "DF",
+    "rating": 78
+   },
+   {
+    "id": "smr-6",
+    "name": "Luca Boateng",
+    "number": 7,
+    "role": "MF",
+    "rating": 78
+   },
+   {
+    "id": "smr-7",
+    "name": "Femi Petrov",
+    "number": 6,
+    "role": "MF",
+    "rating": 76
+   },
+   {
+    "id": "smr-8",
+    "name": "Luca Ward",
+    "number": 10,
+    "role": "MF",
+    "rating": 83
+   },
+   {
+    "id": "smr-9",
+    "name": "Samir Onuoha",
+    "number": 22,
+    "role": "FW",
+    "rating": 74
+   },
+   {
+    "id": "smr-10",
+    "name": "Reece Duarte",
+    "number": 4,
+    "role": "FW",
+    "rating": 82
+   },
+   {
+    "id": "smr-11",
+    "name": "Marcus Santos",
+    "number": 38,
+    "role": "FW",
+    "rating": 71
+   },
+   {
+    "id": "smr-12",
+    "name": "Kwame Ibe",
+    "number": 26,
+    "role": "GK",
+    "rating": 63
+   },
+   {
+    "id": "smr-13",
+    "name": "Luca Adeyemi",
+    "number": 14,
+    "role": "DF",
+    "rating": 66
+   },
+   {
+    "id": "smr-14",
+    "name": "Callum Reyes",
+    "number": 33,
+    "role": "DF",
+    "rating": 67
+   },
+   {
+    "id": "smr-15",
+    "name": "Andre Musa",
+    "number": 30,
+    "role": "MF",
+    "rating": 64
+   },
+   {
+    "id": "smr-16",
+    "name": "Theo Vidal",
+    "number": 8,
+    "role": "MF",
+    "rating": 70
+   },
+   {
+    "id": "smr-17",
+    "name": "Kwame Teixeira",
+    "number": 15,
+    "role": "FW",
+    "rating": 64
+   },
+   {
+    "id": "smr-18",
+    "name": "Andre Diallo",
+    "number": 12,
+    "role": "FW",
+    "rating": 70
+   }
+  ]
+ },
+ {
+  "id": "kpk",
+  "name": "Kestrel Park",
+  "short": "KPK",
+  "city": "Kestrel",
+  "ground": "Kestrel Park",
+  "sport": "football",
+  "rating": 78,
+  "formation": "4-3-3",
+  "crest": {
+   "pattern": "stripes",
+   "tint": 5
+  },
+  "squad": [
+   {
+    "id": "kpk-1",
+    "name": "Marcus Ibe",
+    "number": 1,
+    "role": "GK",
+    "rating": 78
+   },
+   {
+    "id": "kpk-2",
+    "name": "Niko Achebe",
+    "number": 21,
+    "role": "DF",
+    "rating": 80
+   },
+   {
+    "id": "kpk-3",
+    "name": "Reece Okafor",
+    "number": 8,
+    "role": "DF",
+    "rating": 81
+   },
+   {
+    "id": "kpk-4",
+    "name": "Sani Asante",
+    "number": 14,
+    "role": "DF",
+    "rating": 79
+   },
+   {
+    "id": "kpk-5",
+    "name": "Ibrahim Vidal",
+    "number": 35,
+    "role": "DF",
+    "rating": 74
+   },
+   {
+    "id": "kpk-6",
+    "name": "Tariq Musa",
+    "number": 23,
+    "role": "MF",
+    "rating": 72
+   },
+   {
+    "id": "kpk-7",
+    "name": "Oscar Marin",
+    "number": 28,
+    "role": "MF",
+    "rating": 79
+   },
+   {
+    "id": "kpk-8",
+    "name": "Hugo Fontaine",
+    "number": 3,
+    "role": "MF",
+    "rating": 74
+   },
+   {
+    "id": "kpk-9",
+    "name": "Theo Petrov",
+    "number": 7,
+    "role": "FW",
+    "rating": 85
+   },
+   {
+    "id": "kpk-10",
+    "name": "Rafael Bangura",
+    "number": 2,
+    "role": "FW",
+    "rating": 73
+   },
+   {
+    "id": "kpk-11",
+    "name": "Yusuf Navarro",
+    "number": 33,
+    "role": "FW",
+    "rating": 75
+   },
+   {
+    "id": "kpk-12",
+    "name": "Luca Hale",
+    "number": 38,
+    "role": "GK",
+    "rating": 70
+   },
+   {
+    "id": "kpk-13",
+    "name": "Hugo Onuoha",
+    "number": 6,
+    "role": "DF",
+    "rating": 72
+   },
+   {
+    "id": "kpk-14",
+    "name": "Kwame Eze",
+    "number": 36,
+    "role": "DF",
+    "rating": 65
+   },
+   {
+    "id": "kpk-15",
+    "name": "Rafael Kalu",
+    "number": 12,
+    "role": "MF",
+    "rating": 76
+   },
+   {
+    "id": "kpk-16",
+    "name": "Leon Price",
+    "number": 19,
+    "role": "MF",
+    "rating": 74
+   },
+   {
+    "id": "kpk-17",
+    "name": "Marcus Okoro",
+    "number": 15,
+    "role": "FW",
+    "rating": 71
+   },
+   {
+    "id": "kpk-18",
+    "name": "Joao Reyes",
+    "number": 11,
+    "role": "FW",
+    "rating": 67
+   }
+  ]
+ },
+ {
+  "id": "dks",
+  "name": "Dockside",
+  "short": "DKS",
+  "city": "Dockside",
+  "ground": "Crane Street",
+  "sport": "football",
+  "rating": 73,
+  "formation": "4-3-3",
+  "crest": {
+   "pattern": "sash",
+   "tint": 4
+  },
+  "squad": [
+   {
+    "id": "dks-1",
+    "name": "Reece Onuoha",
+    "number": 1,
+    "role": "GK",
+    "rating": 70
+   },
+   {
+    "id": "dks-2",
+    "name": "Kofi Kalu",
+    "number": 15,
+    "role": "DF",
+    "rating": 77
+   },
+   {
+    "id": "dks-3",
+    "name": "Joao Brandt",
+    "number": 33,
+    "role": "DF",
+    "rating": 67
+   },
+   {
+    "id": "dks-4",
+    "name": "Femi Ibe",
+    "number": 20,
+    "role": "DF",
+    "rating": 69
+   },
+   {
+    "id": "dks-5",
+    "name": "Chidi Eze",
+    "number": 21,
+    "role": "DF",
+    "rating": 76
+   },
+   {
+    "id": "dks-6",
+    "name": "Yusuf Bello",
+    "number": 19,
+    "role": "MF",
+    "rating": 77
+   },
+   {
+    "id": "dks-7",
+    "name": "Leon Musa",
+    "number": 9,
+    "role": "MF",
+    "rating": 73
+   },
+   {
+    "id": "dks-8",
+    "name": "Baba Reyes",
+    "number": 17,
+    "role": "MF",
+    "rating": 72
+   },
+   {
+    "id": "dks-9",
+    "name": "Femi Price",
+    "number": 18,
+    "role": "FW",
+    "rating": 68
+   },
+   {
+    "id": "dks-10",
+    "name": "Yusuf Marin",
+    "number": 29,
+    "role": "FW",
+    "rating": 77
+   },
+   {
+    "id": "dks-11",
+    "name": "Mateo Lindqvist",
+    "number": 5,
+    "role": "FW",
+    "rating": 75
+   },
+   {
+    "id": "dks-12",
+    "name": "Sani Duarte",
+    "number": 37,
+    "role": "GK",
+    "rating": 67
+   },
+   {
+    "id": "dks-13",
+    "name": "Reece Cole",
+    "number": 39,
+    "role": "DF",
+    "rating": 65
+   },
+   {
+    "id": "dks-14",
+    "name": "Reece Hale",
+    "number": 14,
+    "role": "DF",
+    "rating": 68
+   },
+   {
+    "id": "dks-15",
+    "name": "Baba Moreau",
+    "number": 8,
+    "role": "MF",
+    "rating": 69
+   },
+   {
+    "id": "dks-16",
+    "name": "Baba Mensah",
+    "number": 6,
+    "role": "MF",
+    "rating": 65
+   },
+   {
+    "id": "dks-17",
+    "name": "Jonas Rossi",
+    "number": 30,
+    "role": "FW",
+    "rating": 65
+   },
+   {
+    "id": "dks-18",
+    "name": "Yusuf Castell",
+    "number": 31,
+    "role": "FW",
+    "rating": 68
+   }
+  ]
+ },
+ {
+  "id": "lnh",
+  "name": "Lantern Hill",
+  "short": "LNH",
+  "city": "Lantern Hill",
+  "ground": "The Beacon",
+  "sport": "football",
+  "rating": 71,
+  "formation": "4-3-3",
+  "crest": {
+   "pattern": "plain",
+   "tint": 7
+  },
+  "squad": [
+   {
+    "id": "lnh-1",
+    "name": "Emeka Ibe",
+    "number": 1,
+    "role": "GK",
+    "rating": 66
+   },
+   {
+    "id": "lnh-2",
+    "name": "Luca Kalu",
+    "number": 37,
+    "role": "DF",
+    "rating": 73
+   },
+   {
+    "id": "lnh-3",
+    "name": "Sani Teixeira",
+    "number": 35,
+    "role": "DF",
+    "rating": 75
+   },
+   {
+    "id": "lnh-4",
+    "name": "Theo Mensah",
+    "number": 30,
+    "role": "DF",
+    "rating": 73
+   },
+   {
+    "id": "lnh-5",
+    "name": "Baba Diallo",
+    "number": 2,
+    "role": "DF",
+    "rating": 70
+   },
+   {
+    "id": "lnh-6",
+    "name": "Oscar Musa",
+    "number": 8,
+    "role": "MF",
+    "rating": 71
+   },
+   {
+    "id": "lnh-7",
+    "name": "Reece Lindqvist",
+    "number": 36,
+    "role": "MF",
+    "rating": 71
+   },
+   {
+    "id": "lnh-8",
+    "name": "Marcus Petrov",
+    "number": 25,
+    "role": "MF",
+    "rating": 71
+   },
+   {
+    "id": "lnh-9",
+    "name": "Rafael Onuoha",
+    "number": 10,
+    "role": "FW",
+    "rating": 66
+   },
+   {
+    "id": "lnh-10",
+    "name": "Mateo Asante",
+    "number": 29,
+    "role": "FW",
+    "rating": 71
+   },
+   {
+    "id": "lnh-11",
+    "name": "Tariq Duarte",
+    "number": 7,
+    "role": "FW",
+    "rating": 69
+   },
+   {
+    "id": "lnh-12",
+    "name": "Tariq Navarro",
+    "number": 22,
+    "role": "GK",
+    "rating": 65
+   },
+   {
+    "id": "lnh-13",
+    "name": "Oscar Keller",
+    "number": 21,
+    "role": "DF",
+    "rating": 58
+   },
+   {
+    "id": "lnh-14",
+    "name": "Samir Bello",
+    "number": 39,
+    "role": "DF",
+    "rating": 64
+   },
+   {
+    "id": "lnh-15",
+    "name": "Theo Onyeka",
+    "number": 24,
+    "role": "MF",
+    "rating": 62
+   },
+   {
+    "id": "lnh-16",
+    "name": "Oscar Whitlock",
+    "number": 15,
+    "role": "MF",
+    "rating": 59
+   },
+   {
+    "id": "lnh-17",
+    "name": "Theo Brandt",
+    "number": 14,
+    "role": "FW",
+    "rating": 63
+   },
+   {
+    "id": "lnh-18",
+    "name": "Jonas Bangura",
+    "number": 5,
+    "role": "FW",
+    "rating": 66
+   }
+  ]
+ },
+ {
+  "id": "rct",
+  "name": "Redcliff Town",
+  "short": "RCT",
+  "city": "Redcliff",
+  "ground": "Cliff Road",
+  "sport": "football",
+  "rating": 69,
+  "formation": "3-5-2",
+  "crest": {
+   "pattern": "band",
+   "tint": 1
+  },
+  "squad": [
+   {
+    "id": "rct-1",
+    "name": "Chidi Duarte",
+    "number": 1,
+    "role": "GK",
+    "rating": 76
+   },
+   {
+    "id": "rct-2",
+    "name": "Obi Bello",
+    "number": 20,
+    "role": "DF",
+    "rating": 65
+   },
+   {
+    "id": "rct-3",
+    "name": "Tunde Hale",
+    "number": 22,
+    "role": "DF",
+    "rating": 72
+   },
+   {
+    "id": "rct-4",
+    "name": "Yusuf Ibe",
+    "number": 38,
+    "role": "DF",
+    "rating": 67
+   },
+   {
+    "id": "rct-5",
+    "name": "Reece Weller",
+    "number": 26,
+    "role": "MF",
+    "rating": 64
+   },
+   {
+    "id": "rct-6",
+    "name": "Dele Cole",
+    "number": 23,
+    "role": "MF",
+    "rating": 68
+   },
+   {
+    "id": "rct-7",
+    "name": "Niko Whitlock",
+    "number": 4,
+    "role": "MF",
+    "rating": 70
+   },
+   {
+    "id": "rct-8",
+    "name": "Luca Diallo",
+    "number": 6,
+    "role": "MF",
+    "rating": 65
+   },
+   {
+    "id": "rct-9",
+    "name": "Yusuf Boateng",
+    "number": 8,
+    "role": "MF",
+    "rating": 70
+   },
+   {
+    "id": "rct-10",
+    "name": "Yusuf Ward",
+    "number": 32,
+    "role": "FW",
+    "rating": 68
+   },
+   {
+    "id": "rct-11",
+    "name": "Kwame Achebe",
+    "number": 13,
+    "role": "FW",
+    "rating": 72
+   },
+   {
+    "id": "rct-12",
+    "name": "Luca Keller",
+    "number": 3,
+    "role": "GK",
+    "rating": 62
+   },
+   {
+    "id": "rct-13",
+    "name": "Obi Fontaine",
+    "number": 19,
+    "role": "DF",
+    "rating": 68
+   },
+   {
+    "id": "rct-14",
+    "name": "Oscar Okoro",
+    "number": 15,
+    "role": "DF",
+    "rating": 67
+   },
+   {
+    "id": "rct-15",
+    "name": "Dele Onyeka",
+    "number": 10,
+    "role": "MF",
+    "rating": 62
+   },
+   {
+    "id": "rct-16",
+    "name": "Samir Petrov",
+    "number": 17,
+    "role": "MF",
+    "rating": 57
+   },
+   {
+    "id": "rct-17",
+    "name": "Kwame Kalu",
+    "number": 37,
+    "role": "FW",
+    "rating": 56
+   },
+   {
+    "id": "rct-18",
+    "name": "Milan Bangura",
+    "number": 21,
+    "role": "FW",
+    "rating": 64
+   }
+  ]
+ },
+ {
+  "id": "mrw",
+  "name": "Marlow Wanderers",
+  "short": "MRW",
+  "city": "Marlow",
+  "ground": "Weir Meadow",
+  "sport": "football",
+  "rating": 77,
+  "formation": "4-3-3",
+  "crest": {
+   "pattern": "halves",
+   "tint": 6
+  },
+  "squad": [
+   {
+    "id": "mrw-1",
+    "name": "Callum Onyeka",
+    "number": 1,
+    "role": "GK",
+    "rating": 82
+   },
+   {
+    "id": "mrw-2",
+    "name": "Yusuf Petrov",
+    "number": 24,
+    "role": "DF",
+    "rating": 82
+   },
+   {
+    "id": "mrw-3",
+    "name": "Mateo Asante",
+    "number": 38,
+    "role": "DF",
+    "rating": 80
+   },
+   {
+    "id": "mrw-4",
+    "name": "Milan Vidal",
+    "number": 17,
+    "role": "DF",
+    "rating": 71
+   },
+   {
+    "id": "mrw-5",
+    "name": "Rafael Whitlock",
+    "number": 18,
+    "role": "DF",
+    "rating": 72
+   },
+   {
+    "id": "mrw-6",
+    "name": "Chidi Lindqvist",
+    "number": 12,
+    "role": "MF",
+    "rating": 82
+   },
+   {
+    "id": "mrw-7",
+    "name": "Chidi Hale",
+    "number": 16,
+    "role": "MF",
+    "rating": 74
+   },
+   {
+    "id": "mrw-8",
+    "name": "Sani Bangura",
+    "number": 3,
+    "role": "MF",
+    "rating": 81
+   },
+   {
+    "id": "mrw-9",
+    "name": "Chidi Weller",
+    "number": 25,
+    "role": "FW",
+    "rating": 74
+   },
+   {
+    "id": "mrw-10",
+    "name": "Emeka Cole",
+    "number": 10,
+    "role": "FW",
+    "rating": 80
+   },
+   {
+    "id": "mrw-11",
+    "name": "Tariq Okafor",
+    "number": 30,
+    "role": "FW",
+    "rating": 84
+   },
+   {
+    "id": "mrw-12",
+    "name": "Hugo Sarr",
+    "number": 35,
+    "role": "GK",
+    "rating": 69
+   },
+   {
+    "id": "mrw-13",
+    "name": "Baba Reyes",
+    "number": 26,
+    "role": "DF",
+    "rating": 74
+   },
+   {
+    "id": "mrw-14",
+    "name": "Niko Rossi",
+    "number": 23,
+    "role": "DF",
+    "rating": 74
+   },
+   {
+    "id": "mrw-15",
+    "name": "Ibrahim Fontaine",
+    "number": 5,
+    "role": "MF",
+    "rating": 64
+   },
+   {
+    "id": "mrw-16",
+    "name": "Oscar Mensah",
+    "number": 8,
+    "role": "MF",
+    "rating": 70
+   },
+   {
+    "id": "mrw-17",
+    "name": "Luca Kalu",
+    "number": 9,
+    "role": "FW",
+    "rating": 64
+   },
+   {
+    "id": "mrw-18",
+    "name": "Emeka Eze",
+    "number": 20,
+    "role": "FW",
+    "rating": 74
+   }
+  ]
+ },
+ {
+  "id": "ash",
+  "name": "Ashdown Albion",
+  "short": "ASH",
+  "city": "Ashdown",
+  "ground": "Forest Edge",
+  "sport": "football",
+  "rating": 75,
+  "formation": "4-2-3-1",
+  "crest": {
+   "pattern": "stripes",
+   "tint": 3
+  },
+  "squad": [
+   {
+    "id": "ash-1",
+    "name": "Leon Larsen",
+    "number": 1,
+    "role": "GK",
+    "rating": 69
+   },
+   {
+    "id": "ash-2",
+    "name": "Baba Eze",
+    "number": 26,
+    "role": "DF",
+    "rating": 82
+   },
+   {
+    "id": "ash-3",
+    "name": "Yusuf Okoro",
+    "number": 20,
+    "role": "DF",
+    "rating": 76
+   },
+   {
+    "id": "ash-4",
+    "name": "Jonas Adeyemi",
+    "number": 32,
+    "role": "DF",
+    "rating": 69
+   },
+   {
+    "id": "ash-5",
+    "name": "Rafael Bangura",
+    "number": 10,
+    "role": "DF",
+    "rating": 74
+   },
+   {
+    "id": "ash-6",
+    "name": "Mateo Castell",
+    "number": 22,
+    "role": "MF",
+    "rating": 81
+   },
+   {
+    "id": "ash-7",
+    "name": "Rafael Asante",
+    "number": 5,
+    "role": "MF",
+    "rating": 79
+   },
+   {
+    "id": "ash-8",
+    "name": "Kwame Onyeka",
+    "number": 17,
+    "role": "MF",
+    "rating": 72
+   },
+   {
+    "id": "ash-9",
+    "name": "Kwame Keller",
+    "number": 37,
+    "role": "MF",
+    "rating": 80
+   },
+   {
+    "id": "ash-10",
+    "name": "Rafael Ibe",
+    "number": 27,
+    "role": "MF",
+    "rating": 82
+   },
+   {
+    "id": "ash-11",
+    "name": "Rafael Kalu",
+    "number": 29,
+    "role": "FW",
+    "rating": 69
+   },
+   {
+    "id": "ash-12",
+    "name": "Leon Musa",
+    "number": 14,
+    "role": "GK",
+    "rating": 66
+   },
+   {
+    "id": "ash-13",
+    "name": "Jonas Sarr",
+    "number": 18,
+    "role": "DF",
+    "rating": 74
+   },
+   {
+    "id": "ash-14",
+    "name": "Rafael Weller",
+    "number": 24,
+    "role": "DF",
+    "rating": 64
+   },
+   {
+    "id": "ash-15",
+    "name": "Chidi Marin",
+    "number": 11,
+    "role": "MF",
+    "rating": 64
+   },
+   {
+    "id": "ash-16",
+    "name": "Tariq Vidal",
+    "number": 23,
+    "role": "MF",
+    "rating": 66
+   },
+   {
+    "id": "ash-17",
+    "name": "Femi Onuoha",
+    "number": 4,
+    "role": "FW",
+    "rating": 74
+   },
+   {
+    "id": "ash-18",
+    "name": "Chidi Navarro",
+    "number": 38,
+    "role": "FW",
+    "rating": 62
+   }
+  ]
+ },
+ {
+  "id": "fwc",
+  "name": "Fenwick City",
+  "short": "FWC",
+  "city": "Fenwick",
+  "ground": "Mill Lane",
+  "sport": "football",
+  "rating": 74,
+  "formation": "4-4-2",
+  "crest": {
+   "pattern": "plain",
+   "tint": 5
+  },
+  "squad": [
+   {
+    "id": "fwc-1",
+    "name": "Rafael Nwosu",
+    "number": 1,
+    "role": "GK",
+    "rating": 80
+   },
+   {
+    "id": "fwc-2",
+    "name": "Joao Reyes",
+    "number": 9,
+    "role": "DF",
+    "rating": 75
+   },
+   {
+    "id": "fwc-3",
+    "name": "Sani Larsen",
+    "number": 11,
+    "role": "DF",
+    "rating": 74
+   },
+   {
+    "id": "fwc-4",
+    "name": "Niko Whitlock",
+    "number": 22,
+    "role": "DF",
+    "rating": 74
+   },
+   {
+    "id": "fwc-5",
+    "name": "Oscar Marin",
+    "number": 2,
+    "role": "DF",
+    "rating": 76
+   },
+   {
+    "id": "fwc-6",
+    "name": "Obi Sarr",
+    "number": 34,
+    "role": "MF",
+    "rating": 68
+   },
+   {
+    "id": "fwc-7",
+    "name": "Milan Hale",
+    "number": 24,
+    "role": "MF",
+    "rating": 70
+   },
+   {
+    "id": "fwc-8",
+    "name": "Kwame Fontaine",
+    "number": 37,
+    "role": "MF",
+    "rating": 71
+   },
+   {
+    "id": "fwc-9",
+    "name": "Niko Kalu",
+    "number": 12,
+    "role": "MF",
+    "rating": 77
+   },
+   {
+    "id": "fwc-10",
+    "name": "Ibrahim Duarte",
+    "number": 8,
+    "role": "FW",
+    "rating": 79
+   },
+   {
+    "id": "fwc-11",
+    "name": "Sani Lindqvist",
+    "number": 28,
+    "role": "FW",
+    "rating": 68
+   },
+   {
+    "id": "fwc-12",
+    "name": "Marcus Ibe",
+    "number": 26,
+    "role": "GK",
+    "rating": 65
+   },
+   {
+    "id": "fwc-13",
+    "name": "Elias Eze",
+    "number": 30,
+    "role": "DF",
+    "rating": 70
+   },
+   {
+    "id": "fwc-14",
+    "name": "Callum Keller",
+    "number": 16,
+    "role": "DF",
+    "rating": 70
+   },
+   {
+    "id": "fwc-15",
+    "name": "Niko Teixeira",
+    "number": 7,
+    "role": "MF",
+    "rating": 72
+   },
+   {
+    "id": "fwc-16",
+    "name": "Yusuf Bangura",
+    "number": 27,
+    "role": "MF",
+    "rating": 70
+   },
+   {
+    "id": "fwc-17",
+    "name": "Chidi Adeyemi",
+    "number": 39,
+    "role": "FW",
+    "rating": 62
+   },
+   {
+    "id": "fwc-18",
+    "name": "Niko Onuoha",
+    "number": 31,
+    "role": "FW",
+    "rating": 67
+   }
+  ]
+ },
+ {
+  "id": "thu",
+  "name": "Thornbury United",
+  "short": "THU",
+  "city": "Thornbury",
+  "ground": "Briar Field",
+  "sport": "football",
+  "rating": 72,
+  "formation": "4-4-2",
+  "crest": {
+   "pattern": "quarters",
+   "tint": 1
+  },
+  "squad": [
+   {
+    "id": "thu-1",
+    "name": "Leon Fontaine",
+    "number": 1,
+    "role": "GK",
+    "rating": 75
+   },
+   {
+    "id": "thu-2",
+    "name": "Theo Sarr",
+    "number": 26,
+    "role": "DF",
+    "rating": 68
+   },
+   {
+    "id": "thu-3",
+    "name": "Dele Diallo",
+    "number": 6,
+    "role": "DF",
+    "rating": 75
+   },
+   {
+    "id": "thu-4",
+    "name": "Femi Bello",
+    "number": 27,
+    "role": "DF",
+    "rating": 74
+   },
+   {
+    "id": "thu-5",
+    "name": "Yusuf Weller",
+    "number": 39,
+    "role": "DF",
+    "rating": 73
+   },
+   {
+    "id": "thu-6",
+    "name": "Callum Okoro",
+    "number": 12,
+    "role": "MF",
+    "rating": 79
+   },
+   {
+    "id": "thu-7",
+    "name": "Sani Boateng",
+    "number": 32,
+    "role": "MF",
+    "rating": 77
+   },
+   {
+    "id": "thu-8",
+    "name": "Rafael Musa",
+    "number": 9,
+    "role": "MF",
+    "rating": 76
+   },
+   {
+    "id": "thu-9",
+    "name": "Oscar Keller",
+    "number": 5,
+    "role": "MF",
+    "rating": 74
+   },
+   {
+    "id": "thu-10",
+    "name": "Callum Whitlock",
+    "number": 28,
+    "role": "FW",
+    "rating": 70
+   },
+   {
+    "id": "thu-11",
+    "name": "Oscar Onyeka",
+    "number": 16,
+    "role": "FW",
+    "rating": 76
+   },
+   {
+    "id": "thu-12",
+    "name": "Rafael Brandt",
+    "number": 25,
+    "role": "GK",
+    "rating": 68
+   },
+   {
+    "id": "thu-13",
+    "name": "Tunde Mensah",
+    "number": 33,
+    "role": "DF",
+    "rating": 64
+   },
+   {
+    "id": "thu-14",
+    "name": "Emeka Larsen",
+    "number": 10,
+    "role": "DF",
+    "rating": 66
+   },
+   {
+    "id": "thu-15",
+    "name": "Obi Price",
+    "number": 21,
+    "role": "MF",
+    "rating": 69
+   },
+   {
+    "id": "thu-16",
+    "name": "Tunde Okafor",
+    "number": 4,
+    "role": "MF",
+    "rating": 63
+   },
+   {
+    "id": "thu-17",
+    "name": "Marcus Santos",
+    "number": 18,
+    "role": "FW",
+    "rating": 64
+   },
+   {
+    "id": "thu-18",
+    "name": "Joao Kalu",
+    "number": 19,
+    "role": "FW",
+    "rating": 60
+   }
+  ]
+ },
+ {
+  "id": "csr",
+  "name": "Castlereach",
+  "short": "CSR",
+  "city": "Castlereach",
+  "ground": "Keep Road",
+  "sport": "football",
+  "rating": 71,
+  "formation": "4-3-3",
+  "crest": {
+   "pattern": "chevron",
+   "tint": 0
+  },
+  "squad": [
+   {
+    "id": "csr-1",
+    "name": "Sani Onyeka",
+    "number": 1,
+    "role": "GK",
+    "rating": 72
+   },
+   {
+    "id": "csr-2",
+    "name": "Joao Rossi",
+    "number": 8,
+    "role": "DF",
+    "rating": 76
+   },
+   {
+    "id": "csr-3",
+    "name": "Marcus Onuoha",
+    "number": 10,
+    "role": "DF",
+    "rating": 72
+   },
+   {
+    "id": "csr-4",
+    "name": "Milan Lindqvist",
+    "number": 27,
+    "role": "DF",
+    "rating": 73
+   },
+   {
+    "id": "csr-5",
+    "name": "Sani Marin",
+    "number": 31,
+    "role": "DF",
+    "rating": 75
+   },
+   {
+    "id": "csr-6",
+    "name": "Tunde Vidal",
+    "number": 9,
+    "role": "MF",
+    "rating": 68
+   },
+   {
+    "id": "csr-7",
+    "name": "Jonas Ward",
+    "number": 30,
+    "role": "MF",
+    "rating": 78
+   },
+   {
+    "id": "csr-8",
+    "name": "Baba Brandt",
+    "number": 24,
+    "role": "MF",
+    "rating": 70
+   },
+   {
+    "id": "csr-9",
+    "name": "Marcus Nwosu",
+    "number": 6,
+    "role": "FW",
+    "rating": 66
+   },
+   {
+    "id": "csr-10",
+    "name": "Luca Diallo",
+    "number": 19,
+    "role": "FW",
+    "rating": 69
+   },
+   {
+    "id": "csr-11",
+    "name": "Callum Musa",
+    "number": 39,
+    "role": "FW",
+    "rating": 66
+   },
+   {
+    "id": "csr-12",
+    "name": "Baba Bello",
+    "number": 35,
+    "role": "GK",
+    "rating": 66
+   },
+   {
+    "id": "csr-13",
+    "name": "Milan Mensah",
+    "number": 26,
+    "role": "DF",
+    "rating": 65
+   },
+   {
+    "id": "csr-14",
+    "name": "Jonas Asante",
+    "number": 20,
+    "role": "DF",
+    "rating": 58
+   },
+   {
+    "id": "csr-15",
+    "name": "Oscar Cole",
+    "number": 5,
+    "role": "MF",
+    "rating": 58
+   },
+   {
+    "id": "csr-16",
+    "name": "Hugo Fontaine",
+    "number": 28,
+    "role": "MF",
+    "rating": 64
+   },
+   {
+    "id": "csr-17",
+    "name": "Rafael Boateng",
+    "number": 15,
+    "role": "FW",
+    "rating": 68
+   },
+   {
+    "id": "csr-18",
+    "name": "Tunde Moreau",
+    "number": 33,
+    "role": "FW",
+    "rating": 70
+   }
+  ]
+ },
+ {
+  "id": "oak",
+  "name": "Oakhaven",
+  "short": "OAK",
+  "city": "Oakhaven",
+  "ground": "The Grove",
+  "sport": "football",
+  "rating": 69,
+  "formation": "4-4-2",
+  "crest": {
+   "pattern": "hoops",
+   "tint": 4
+  },
+  "squad": [
+   {
+    "id": "oak-1",
+    "name": "Leon Bangura",
+    "number": 1,
+    "role": "GK",
+    "rating": 75
+   },
+   {
+    "id": "oak-2",
+    "name": "Obi Asante",
+    "number": 34,
+    "role": "DF",
+    "rating": 70
+   },
+   {
+    "id": "oak-3",
+    "name": "Femi Hale",
+    "number": 24,
+    "role": "DF",
+    "rating": 66
+   },
+   {
+    "id": "oak-4",
+    "name": "Ibrahim Boateng",
+    "number": 22,
+    "role": "DF",
+    "rating": 74
+   },
+   {
+    "id": "oak-5",
+    "name": "Obi Keller",
+    "number": 13,
+    "role": "DF",
+    "rating": 63
+   },
+   {
+    "id": "oak-6",
+    "name": "Elias Castell",
+    "number": 14,
+    "role": "MF",
+    "rating": 63
+   },
+   {
+    "id": "oak-7",
+    "name": "Andre Nwosu",
+    "number": 10,
+    "role": "MF",
+    "rating": 76
+   },
+   {
+    "id": "oak-8",
+    "name": "Chidi Sarr",
+    "number": 31,
+    "role": "MF",
+    "rating": 74
+   },
+   {
+    "id": "oak-9",
+    "name": "Hugo Marin",
+    "number": 38,
+    "role": "MF",
+    "rating": 68
+   },
+   {
+    "id": "oak-10",
+    "name": "Joao Ibe",
+    "number": 27,
+    "role": "FW",
+    "rating": 72
+   },
+   {
+    "id": "oak-11",
+    "name": "Yusuf Adeyemi",
+    "number": 21,
+    "role": "FW",
+    "rating": 68
+   },
+   {
+    "id": "oak-12",
+    "name": "Sani Ward",
+    "number": 9,
+    "role": "GK",
+    "rating": 63
+   },
+   {
+    "id": "oak-13",
+    "name": "Jonas Cole",
+    "number": 7,
+    "role": "DF",
+    "rating": 58
+   },
+   {
+    "id": "oak-14",
+    "name": "Leon Okafor",
+    "number": 4,
+    "role": "DF",
+    "rating": 57
+   },
+   {
+    "id": "oak-15",
+    "name": "Hugo Mensah",
+    "number": 33,
+    "role": "MF",
+    "rating": 67
+   },
+   {
+    "id": "oak-16",
+    "name": "Samir Diallo",
+    "number": 5,
+    "role": "MF",
+    "rating": 62
+   },
+   {
+    "id": "oak-17",
+    "name": "Baba Whitlock",
+    "number": 2,
+    "role": "FW",
+    "rating": 63
+   },
+   {
+    "id": "oak-18",
+    "name": "Yusuf Achebe",
+    "number": 26,
+    "role": "FW",
+    "rating": 57
+   }
+  ]
+ },
+ {
+  "id": "gwf",
+  "name": "Greywater",
+  "short": "GWF",
+  "city": "Greywater",
+  "ground": "Slate Park",
+  "sport": "football",
+  "rating": 68,
+  "formation": "4-3-3",
+  "crest": {
+   "pattern": "band",
+   "tint": 7
+  },
+  "squad": [
+   {
+    "id": "gwf-1",
+    "name": "Hugo Price",
+    "number": 1,
+    "role": "GK",
+    "rating": 72
+   },
+   {
+    "id": "gwf-2",
+    "name": "Luca Onuoha",
+    "number": 9,
+    "role": "DF",
+    "rating": 62
+   },
+   {
+    "id": "gwf-3",
+    "name": "Niko Santos",
+    "number": 24,
+    "role": "DF",
+    "rating": 75
+   },
+   {
+    "id": "gwf-4",
+    "name": "Milan Bello",
+    "number": 20,
+    "role": "DF",
+    "rating": 68
+   },
+   {
+    "id": "gwf-5",
+    "name": "Oscar Fontaine",
+    "number": 36,
+    "role": "DF",
+    "rating": 68
+   },
+   {
+    "id": "gwf-6",
+    "name": "Obi Marin",
+    "number": 19,
+    "role": "MF",
+    "rating": 73
+   },
+   {
+    "id": "gwf-7",
+    "name": "Theo Hale",
+    "number": 39,
+    "role": "MF",
+    "rating": 69
+   },
+   {
+    "id": "gwf-8",
+    "name": "Andre Weller",
+    "number": 30,
+    "role": "MF",
+    "rating": 67
+   },
+   {
+    "id": "gwf-9",
+    "name": "Niko Achebe",
+    "number": 28,
+    "role": "FW",
+    "rating": 62
+   },
+   {
+    "id": "gwf-10",
+    "name": "Baba Okafor",
+    "number": 4,
+    "role": "FW",
+    "rating": 71
+   },
+   {
+    "id": "gwf-11",
+    "name": "Theo Okoro",
+    "number": 35,
+    "role": "FW",
+    "rating": 66
+   },
+   {
+    "id": "gwf-12",
+    "name": "Femi Cole",
+    "number": 8,
+    "role": "GK",
+    "rating": 62
+   },
+   {
+    "id": "gwf-13",
+    "name": "Elias Nwosu",
+    "number": 10,
+    "role": "DF",
+    "rating": 66
+   },
+   {
+    "id": "gwf-14",
+    "name": "Tariq Diallo",
+    "number": 18,
+    "role": "DF",
+    "rating": 67
+   },
+   {
+    "id": "gwf-15",
+    "name": "Kwame Moreau",
+    "number": 15,
+    "role": "MF",
+    "rating": 60
+   },
+   {
+    "id": "gwf-16",
+    "name": "Luca Lindqvist",
+    "number": 22,
+    "role": "MF",
+    "rating": 56
+   },
+   {
+    "id": "gwf-17",
+    "name": "Femi Duarte",
+    "number": 12,
+    "role": "FW",
+    "rating": 62
+   },
+   {
+    "id": "gwf-18",
+    "name": "Oscar Castell",
+    "number": 31,
+    "role": "FW",
+    "rating": 62
+   }
+  ]
+ },
+ {
+  "id": "smf",
+  "name": "Summerfield",
+  "short": "SMF",
+  "city": "Summerfield",
+  "ground": "Long Acre",
+  "sport": "football",
+  "rating": 66,
+  "formation": "4-4-2",
+  "crest": {
+   "pattern": "sash",
+   "tint": 2
+  },
+  "squad": [
+   {
+    "id": "smf-1",
+    "name": "Mateo Vidal",
+    "number": 1,
+    "role": "GK",
+    "rating": 64
+   },
+   {
+    "id": "smf-2",
+    "name": "Hugo Castell",
+    "number": 5,
+    "role": "DF",
+    "rating": 70
+   },
+   {
+    "id": "smf-3",
+    "name": "Tariq Hale",
+    "number": 11,
+    "role": "DF",
+    "rating": 64
+   },
+   {
+    "id": "smf-4",
+    "name": "Theo Keller",
+    "number": 30,
+    "role": "DF",
+    "rating": 69
+   },
+   {
+    "id": "smf-5",
+    "name": "Ibrahim Price",
+    "number": 10,
+    "role": "DF",
+    "rating": 69
+   },
+   {
+    "id": "smf-6",
+    "name": "Dele Larsen",
+    "number": 25,
+    "role": "MF",
+    "rating": 61
+   },
+   {
+    "id": "smf-7",
+    "name": "Femi Brandt",
+    "number": 24,
+    "role": "MF",
+    "rating": 72
+   },
+   {
+    "id": "smf-8",
+    "name": "Kwame Weller",
+    "number": 2,
+    "role": "MF",
+    "rating": 67
+   },
+   {
+    "id": "smf-9",
+    "name": "Baba Lindqvist",
+    "number": 20,
+    "role": "MF",
+    "rating": 64
+   },
+   {
+    "id": "smf-10",
+    "name": "Niko Mensah",
+    "number": 31,
+    "role": "FW",
+    "rating": 62
+   },
+   {
+    "id": "smf-11",
+    "name": "Femi Musa",
+    "number": 32,
+    "role": "FW",
+    "rating": 71
+   },
+   {
+    "id": "smf-12",
+    "name": "Oscar Sarr",
+    "number": 38,
+    "role": "GK",
+    "rating": 58
+   },
+   {
+    "id": "smf-13",
+    "name": "Jonas Achebe",
+    "number": 34,
+    "role": "DF",
+    "rating": 57
+   },
+   {
+    "id": "smf-14",
+    "name": "Andre Asante",
+    "number": 27,
+    "role": "DF",
+    "rating": 56
+   },
+   {
+    "id": "smf-15",
+    "name": "Samir Okoro",
+    "number": 8,
+    "role": "MF",
+    "rating": 56
+   },
+   {
+    "id": "smf-16",
+    "name": "Chidi Kalu",
+    "number": 36,
+    "role": "MF",
+    "rating": 60
+   },
+   {
+    "id": "smf-17",
+    "name": "Yusuf Onuoha",
+    "number": 33,
+    "role": "FW",
+    "rating": 66
+   },
+   {
+    "id": "smf-18",
+    "name": "Andre Moreau",
+    "number": 9,
+    "role": "FW",
+    "rating": 64
+   }
+  ]
+ },
+ {
+  "id": "lag",
+  "name": "Lagos Tide",
+  "short": "LAG",
+  "city": "Lagos",
+  "ground": "Tide Arena",
+  "sport": "basketball",
+  "rating": 86,
+  "formation": "3-5-2",
+  "crest": {
+   "pattern": "hoops",
+   "tint": 3
+  },
+  "squad": [
+   {
+    "id": "lag-1",
+    "name": "Darius Nwora",
+    "number": 36,
+    "role": "G",
+    "rating": 95
+   },
+   {
+    "id": "lag-2",
+    "name": "Malik Hayes",
+    "number": 35,
+    "role": "G",
+    "rating": 91
+   },
+   {
+    "id": "lag-3",
+    "name": "Mamadou Price",
+    "number": 37,
+    "role": "F",
+    "rating": 80
+   },
+   {
+    "id": "lag-4",
+    "name": "Zion Barry",
+    "number": 13,
+    "role": "F",
+    "rating": 87
+   },
+   {
+    "id": "lag-5",
+    "name": "Kwesi Reed",
+    "number": 26,
+    "role": "C",
+    "rating": 91
+   },
+   {
+    "id": "lag-6",
+    "name": "Tyrese Eze",
+    "number": 9,
+    "role": "G",
+    "rating": 79
+   },
+   {
+    "id": "lag-7",
+    "name": "Lamar Akins",
+    "number": 12,
+    "role": "F",
+    "rating": 86
+   },
+   {
+    "id": "lag-8",
+    "name": "Lamar Sylla",
+    "number": 8,
+    "role": "C",
+    "rating": 75
+   },
+   {
+    "id": "lag-9",
+    "name": "Kwesi Adebayo",
+    "number": 18,
+    "role": "G",
+    "rating": 75
+   }
+  ]
+ },
+ {
+  "id": "acc",
+  "name": "Accra Comets",
+  "short": "ACC",
+  "city": "Accra",
+  "ground": "Comet Dome",
+  "sport": "basketball",
+  "rating": 82,
+  "formation": "3-5-2",
+  "crest": {
+   "pattern": "band",
+   "tint": 4
+  },
+  "squad": [
+   {
+    "id": "acc-1",
+    "name": "Tobi Brooks",
+    "number": 26,
+    "role": "G",
+    "rating": 91
+   },
+   {
+    "id": "acc-2",
+    "name": "Darius Kamara",
+    "number": 28,
+    "role": "G",
+    "rating": 83
+   },
+   {
+    "id": "acc-3",
+    "name": "Jalen Greene",
+    "number": 11,
+    "role": "F",
+    "rating": 78
+   },
+   {
+    "id": "acc-4",
+    "name": "Zion Ndiaye",
+    "number": 36,
+    "role": "F",
+    "rating": 84
+   },
+   {
+    "id": "acc-5",
+    "name": "Kwesi Diop",
+    "number": 30,
+    "role": "C",
+    "rating": 81
+   },
+   {
+    "id": "acc-6",
+    "name": "Idris Mutombo",
+    "number": 14,
+    "role": "G",
+    "rating": 78
+   },
+   {
+    "id": "acc-7",
+    "name": "Lamar Chukwu",
+    "number": 37,
+    "role": "F",
+    "rating": 81
+   },
+   {
+    "id": "acc-8",
+    "name": "Jalen Adebayo",
+    "number": 9,
+    "role": "C",
+    "rating": 76
+   },
+   {
+    "id": "acc-9",
+    "name": "Dayo Reed",
+    "number": 6,
+    "role": "G",
+    "rating": 81
+   }
+  ]
+ },
+ {
+  "id": "dkr",
+  "name": "Dakar Lions",
+  "short": "DKR",
+  "city": "Dakar",
+  "ground": "Lions Hall",
+  "sport": "basketball",
+  "rating": 84,
+  "formation": "4-3-3",
+  "crest": {
+   "pattern": "quarters",
+   "tint": 6
+  },
+  "squad": [
+   {
+    "id": "dkr-1",
+    "name": "Zion Kone",
+    "number": 38,
+    "role": "G",
+    "rating": 93
+   },
+   {
+    "id": "dkr-2",
+    "name": "Kwesi Barry",
+    "number": 31,
+    "role": "G",
+    "rating": 86
+   },
+   {
+    "id": "dkr-3",
+    "name": "Ousmane Carter",
+    "number": 2,
+    "role": "F",
+    "rating": 78
+   },
+   {
+    "id": "dkr-4",
+    "name": "Zion Adebayo",
+    "number": 7,
+    "role": "F",
+    "rating": 81
+   },
+   {
+    "id": "dkr-5",
+    "name": "Moussa Ojo",
+    "number": 15,
+    "role": "C",
+    "rating": 82
+   },
+   {
+    "id": "dkr-6",
+    "name": "Darius Mutombo",
+    "number": 16,
+    "role": "G",
+    "rating": 73
+   },
+   {
+    "id": "dkr-7",
+    "name": "Jalen Owusu",
+    "number": 35,
+    "role": "F",
+    "rating": 74
+   },
+   {
+    "id": "dkr-8",
+    "name": "Idris Olatunji",
+    "number": 21,
+    "role": "C",
+    "rating": 84
+   },
+   {
+    "id": "dkr-9",
+    "name": "Tyrese Greene",
+    "number": 10,
+    "role": "G",
+    "rating": 79
+   }
+  ]
+ },
+ {
+  "id": "nbo",
+  "name": "Nairobi Heat",
+  "short": "NBO",
+  "city": "Nairobi",
+  "ground": "Savannah Court",
+  "sport": "basketball",
+  "rating": 78,
+  "formation": "3-5-2",
+  "crest": {
+   "pattern": "halves",
+   "tint": 0
+  },
+  "squad": [
+   {
+    "id": "nbo-1",
+    "name": "Nnamdi Mutombo",
+    "number": 37,
+    "role": "G",
+    "rating": 87
+   },
+   {
+    "id": "nbo-2",
+    "name": "Idris Banks",
+    "number": 10,
+    "role": "G",
+    "rating": 76
+   },
+   {
+    "id": "nbo-3",
+    "name": "Jabari Sow",
+    "number": 22,
+    "role": "F",
+    "rating": 73
+   },
+   {
+    "id": "nbo-4",
+    "name": "Ousmane Barry",
+    "number": 35,
+    "role": "F",
+    "rating": 85
+   },
+   {
+    "id": "nbo-5",
+    "name": "Kwesi Chukwu",
+    "number": 17,
+    "role": "C",
+    "rating": 81
+   },
+   {
+    "id": "nbo-6",
+    "name": "Darius Kone",
+    "number": 26,
+    "role": "G",
+    "rating": 70
+   },
+   {
+    "id": "nbo-7",
+    "name": "Kwesi Mensah",
+    "number": 39,
+    "role": "F",
+    "rating": 78
+   },
+   {
+    "id": "nbo-8",
+    "name": "Moussa Carter",
+    "number": 24,
+    "role": "C",
+    "rating": 66
+   },
+   {
+    "id": "nbo-9",
+    "name": "Babajide Ojo",
+    "number": 4,
+    "role": "G",
+    "rating": 67
+   }
+  ]
+ },
+ {
+  "id": "cpt",
+  "name": "Cape Storm",
+  "short": "CPT",
+  "city": "Cape Town",
+  "ground": "Table Bay Arena",
+  "sport": "basketball",
+  "rating": 80,
+  "formation": "4-2-3-1",
+  "crest": {
+   "pattern": "chevron",
+   "tint": 1
+  },
+  "squad": [
+   {
+    "id": "cpt-1",
+    "name": "Chuma Carter",
+    "number": 8,
+    "role": "G",
+    "rating": 89
+   },
+   {
+    "id": "cpt-2",
+    "name": "Chuma Barry",
+    "number": 19,
+    "role": "G",
+    "rating": 79
+   },
+   {
+    "id": "cpt-3",
+    "name": "Zion Price",
+    "number": 18,
+    "role": "F",
+    "rating": 74
+   },
+   {
+    "id": "cpt-4",
+    "name": "Moussa Hayes",
+    "number": 10,
+    "role": "F",
+    "rating": 75
+   },
+   {
+    "id": "cpt-5",
+    "name": "Jalen Reed",
+    "number": 7,
+    "role": "C",
+    "rating": 87
+   },
+   {
+    "id": "cpt-6",
+    "name": "Ousmane Banks",
+    "number": 17,
+    "role": "G",
+    "rating": 72
+   },
+   {
+    "id": "cpt-7",
+    "name": "Jabari Mutombo",
+    "number": 5,
+    "role": "F",
+    "rating": 79
+   },
+   {
+    "id": "cpt-8",
+    "name": "Dayo Olatunji",
+    "number": 22,
+    "role": "C",
+    "rating": 77
+   },
+   {
+    "id": "cpt-9",
+    "name": "Ousmane Adebayo",
+    "number": 24,
+    "role": "G",
+    "rating": 72
+   }
+  ]
+ },
+ {
+  "id": "cai",
+  "name": "Cairo Suns",
+  "short": "CAI",
+  "city": "Cairo",
+  "ground": "Delta Centre",
+  "sport": "basketball",
+  "rating": 76,
+  "formation": "4-3-3",
+  "crest": {
+   "pattern": "sash",
+   "tint": 2
+  },
+  "squad": [
+   {
+    "id": "cai-1",
+    "name": "Idris Chukwu",
+    "number": 33,
+    "role": "G",
+    "rating": 85
+   },
+   {
+    "id": "cai-2",
+    "name": "Mamadou Carter",
+    "number": 28,
+    "role": "G",
+    "rating": 81
+   },
+   {
+    "id": "cai-3",
+    "name": "Chuma Diop",
+    "number": 34,
+    "role": "F",
+    "rating": 83
+   },
+   {
+    "id": "cai-4",
+    "name": "Malik Kamara",
+    "number": 25,
+    "role": "F",
+    "rating": 81
+   },
+   {
+    "id": "cai-5",
+    "name": "Lamar Brooks",
+    "number": 24,
+    "role": "C",
+    "rating": 72
+   },
+   {
+    "id": "cai-6",
+    "name": "Sekou Sylla",
+    "number": 12,
+    "role": "G",
+    "rating": 64
+   },
+   {
+    "id": "cai-7",
+    "name": "Idris Mensah",
+    "number": 23,
+    "role": "F",
+    "rating": 75
+   },
+   {
+    "id": "cai-8",
+    "name": "Moussa Ndiaye",
+    "number": 20,
+    "role": "C",
+    "rating": 70
+   },
+   {
+    "id": "cai-9",
+    "name": "Malik Olatunji",
+    "number": 9,
+    "role": "G",
+    "rating": 66
+   }
+  ]
+ },
+ {
+  "id": "kgl",
+  "name": "Kigali Peaks",
+  "short": "KGL",
+  "city": "Kigali",
+  "ground": "Hilltop Arena",
+  "sport": "basketball",
+  "rating": 73,
+  "formation": "3-5-2",
+  "crest": {
+   "pattern": "plain",
+   "tint": 5
+  },
+  "squad": [
+   {
+    "id": "kgl-1",
+    "name": "Ousmane Akins",
+    "number": 17,
+    "role": "G",
+    "rating": 82
+   },
+   {
+    "id": "kgl-2",
+    "name": "Kelechi Okafor",
+    "number": 12,
+    "role": "G",
+    "rating": 69
+   },
+   {
+    "id": "kgl-3",
+    "name": "Sekou Ojo",
+    "number": 19,
+    "role": "F",
+    "rating": 75
+   },
+   {
+    "id": "kgl-4",
+    "name": "Tobi Hayes",
+    "number": 16,
+    "role": "F",
+    "rating": 76
+   },
+   {
+    "id": "kgl-5",
+    "name": "Jabari Nwora",
+    "number": 23,
+    "role": "C",
+    "rating": 72
+   },
+   {
+    "id": "kgl-6",
+    "name": "Chuma Mensah",
+    "number": 33,
+    "role": "G",
+    "rating": 66
+   },
+   {
+    "id": "kgl-7",
+    "name": "Babajide Sow",
+    "number": 36,
+    "role": "F",
+    "rating": 71
+   },
+   {
+    "id": "kgl-8",
+    "name": "Babajide Sylla",
+    "number": 34,
+    "role": "C",
+    "rating": 61
+   },
+   {
+    "id": "kgl-9",
+    "name": "Amadou Carter",
+    "number": 13,
+    "role": "G",
+    "rating": 69
+   }
+  ]
+ },
+ {
+  "id": "abj",
+  "name": "Abidjan Waves",
+  "short": "ABJ",
+  "city": "Abidjan",
+  "ground": "Lagoon Pavilion",
+  "sport": "basketball",
+  "rating": 71,
+  "formation": "4-4-2",
+  "crest": {
+   "pattern": "stripes",
+   "tint": 7
+  },
+  "squad": [
+   {
+    "id": "abj-1",
+    "name": "Jabari Banks",
+    "number": 24,
+    "role": "G",
+    "rating": 80
+   },
+   {
+    "id": "abj-2",
+    "name": "Amadou Reed",
+    "number": 10,
+    "role": "G",
+    "rating": 67
+   },
+   {
+    "id": "abj-3",
+    "name": "Kwesi Toure",
+    "number": 32,
+    "role": "F",
+    "rating": 75
+   },
+   {
+    "id": "abj-4",
+    "name": "Zion Bello",
+    "number": 38,
+    "role": "F",
+    "rating": 72
+   },
+   {
+    "id": "abj-5",
+    "name": "Sekou Mutombo",
+    "number": 31,
+    "role": "C",
+    "rating": 71
+   },
+   {
+    "id": "abj-6",
+    "name": "Nnamdi Barry",
+    "number": 13,
+    "role": "G",
+    "rating": 71
+   },
+   {
+    "id": "abj-7",
+    "name": "Moussa Akins",
+    "number": 19,
+    "role": "F",
+    "rating": 67
+   },
+   {
+    "id": "abj-8",
+    "name": "Amadou Owusu",
+    "number": 27,
+    "role": "C",
+    "rating": 68
+   },
+   {
+    "id": "abj-9",
+    "name": "Amadou Traore",
+    "number": 26,
+    "role": "G",
+    "rating": 64
+   }
+  ]
+ },
+ {
+  "id": "cbs",
+  "name": "Coral Bay Strikers",
+  "short": "CBS",
+  "city": "Coral Bay",
+  "ground": "Reef Oval",
+  "sport": "cricket",
+  "rating": 85,
+  "formation": "4-4-2",
+  "crest": {
+   "pattern": "hoops",
+   "tint": 1
+  },
+  "squad": [
+   {
+    "id": "cbs-1",
+    "name": "Kagiso Fernando",
+    "number": 2,
+    "role": "BAT",
+    "rating": 85
+   },
+   {
+    "id": "cbs-2",
+    "name": "Liam Sharma",
+    "number": 12,
+    "role": "BAT",
+    "rating": 82
+   },
+   {
+    "id": "cbs-3",
+    "name": "Sunil Bravo",
+    "number": 4,
+    "role": "BAT",
+    "rating": 95
+   },
+   {
+    "id": "cbs-4",
+    "name": "Kagiso Nair",
+    "number": 14,
+    "role": "WK",
+    "rating": 88
+   },
+   {
+    "id": "cbs-5",
+    "name": "Faisal Pillai",
+    "number": 11,
+    "role": "BAT",
+    "rating": 87
+   },
+   {
+    "id": "cbs-6",
+    "name": "Dinesh Holder",
+    "number": 23,
+    "role": "AR",
+    "rating": 81
+   },
+   {
+    "id": "cbs-7",
+    "name": "Bilal Wade",
+    "number": 3,
+    "role": "AR",
+    "rating": 83
+   },
+   {
+    "id": "cbs-8",
+    "name": "Anil Aziz",
+    "number": 27,
+    "role": "BWL",
+    "rating": 86
+   },
+   {
+    "id": "cbs-9",
+    "name": "Bilal Mistry",
+    "number": 35,
+    "role": "BWL",
+    "rating": 92
+   },
+   {
+    "id": "cbs-10",
+    "name": "Anil Bancroft",
+    "number": 21,
+    "role": "BWL",
+    "rating": 82
+   },
+   {
+    "id": "cbs-11",
+    "name": "Nikhil Kapoor",
+    "number": 10,
+    "role": "BWL",
+    "rating": 85
+   }
+  ]
+ },
+ {
+  "id": "hvh",
+  "name": "Highveld Hawks",
+  "short": "HVH",
+  "city": "Highveld",
+  "ground": "Plateau Ground",
+  "sport": "cricket",
+  "rating": 82,
+  "formation": "3-5-2",
+  "crest": {
+   "pattern": "chevron",
+   "tint": 3
+  },
+  "squad": [
+   {
+    "id": "hvh-1",
+    "name": "Darren Sheikh",
+    "number": 39,
+    "role": "BAT",
+    "rating": 88
+   },
+   {
+    "id": "hvh-2",
+    "name": "Usman Farooq",
+    "number": 12,
+    "role": "BAT",
+    "rating": 91
+   },
+   {
+    "id": "hvh-3",
+    "name": "Imran Mistry",
+    "number": 16,
+    "role": "BAT",
+    "rating": 83
+   },
+   {
+    "id": "hvh-4",
+    "name": "Kieran Bancroft",
+    "number": 25,
+    "role": "WK",
+    "rating": 89
+   },
+   {
+    "id": "hvh-5",
+    "name": "Kagiso Perera",
+    "number": 20,
+    "role": "BAT",
+    "rating": 86
+   },
+   {
+    "id": "hvh-6",
+    "name": "Aiden Qureshi",
+    "number": 19,
+    "role": "AR",
+    "rating": 88
+   },
+   {
+    "id": "hvh-7",
+    "name": "Shadab Mehta",
+    "number": 32,
+    "role": "AR",
+    "rating": 80
+   },
+   {
+    "id": "hvh-8",
+    "name": "Ravi Joseph",
+    "number": 18,
+    "role": "BWL",
+    "rating": 77
+   },
+   {
+    "id": "hvh-9",
+    "name": "Kunal Tariq",
+    "number": 35,
+    "role": "BWL",
+    "rating": 78
+   },
+   {
+    "id": "hvh-10",
+    "name": "Sunil Ashby",
+    "number": 37,
+    "role": "BWL",
+    "rating": 84
+   },
+   {
+    "id": "hvh-11",
+    "name": "Darren Hope",
+    "number": 9,
+    "role": "BWL",
+    "rating": 78
+   }
+  ]
+ },
+ {
+  "id": "pam",
+  "name": "Port Albany Mariners",
+  "short": "PAM",
+  "city": "Port Albany",
+  "ground": "Anchor Park",
+  "sport": "cricket",
+  "rating": 80,
+  "formation": "4-3-3",
+  "crest": {
+   "pattern": "band",
+   "tint": 0
+  },
+  "squad": [
+   {
+    "id": "pam-1",
+    "name": "Usman Hartley",
+    "number": 3,
+    "role": "BAT",
+    "rating": 78
+   },
+   {
+    "id": "pam-2",
+    "name": "Kieran Perera",
+    "number": 37,
+    "role": "BAT",
+    "rating": 78
+   },
+   {
+    "id": "pam-3",
+    "name": "Kagiso Bashir",
+    "number": 28,
+    "role": "BAT",
+    "rating": 90
+   },
+   {
+    "id": "pam-4",
+    "name": "Faisal Sheikh",
+    "number": 24,
+    "role": "WK",
+    "rating": 84
+   },
+   {
+    "id": "pam-5",
+    "name": "Marlon Aziz",
+    "number": 23,
+    "role": "BAT",
+    "rating": 83
+   },
+   {
+    "id": "pam-6",
+    "name": "Rashid Chopra",
+    "number": 35,
+    "role": "AR",
+    "rating": 87
+   },
+   {
+    "id": "pam-7",
+    "name": "Wes Charles",
+    "number": 38,
+    "role": "AR",
+    "rating": 75
+   },
+   {
+    "id": "pam-8",
+    "name": "Pradeep Holder",
+    "number": 5,
+    "role": "BWL",
+    "rating": 87
+   },
+   {
+    "id": "pam-9",
+    "name": "Tendai Reddy",
+    "number": 36,
+    "role": "BWL",
+    "rating": 78
+   },
+   {
+    "id": "pam-10",
+    "name": "Vikram Carter",
+    "number": 10,
+    "role": "BWL",
+    "rating": 82
+   },
+   {
+    "id": "pam-11",
+    "name": "Hamza Bravo",
+    "number": 18,
+    "role": "BWL",
+    "rating": 76
+   }
+  ]
+ },
+ {
+  "id": "src",
+  "name": "Sunridge Comets",
+  "short": "SRC",
+  "city": "Sunridge",
+  "ground": "Ridge Stadium",
+  "sport": "cricket",
+  "rating": 78,
+  "formation": "3-5-2",
+  "crest": {
+   "pattern": "quarters",
+   "tint": 2
+  },
+  "squad": [
+   {
+    "id": "src-1",
+    "name": "Kunal Aziz",
+    "number": 35,
+    "role": "BAT",
+    "rating": 76
+   },
+   {
+    "id": "src-2",
+    "name": "Kieran Bravo",
+    "number": 37,
+    "role": "BAT",
+    "rating": 84
+   },
+   {
+    "id": "src-3",
+    "name": "Usman Greaves",
+    "number": 31,
+    "role": "BAT",
+    "rating": 76
+   },
+   {
+    "id": "src-4",
+    "name": "Usman Kumar",
+    "number": 30,
+    "role": "WK",
+    "rating": 78
+   },
+   {
+    "id": "src-5",
+    "name": "Arjun Sharma",
+    "number": 28,
+    "role": "BAT",
+    "rating": 76
+   },
+   {
+    "id": "src-6",
+    "name": "Liam Ndlovu",
+    "number": 23,
+    "role": "AR",
+    "rating": 75
+   },
+   {
+    "id": "src-7",
+    "name": "Tom Mistry",
+    "number": 36,
+    "role": "AR",
+    "rating": 84
+   },
+   {
+    "id": "src-8",
+    "name": "Darren Charles",
+    "number": 27,
+    "role": "BWL",
+    "rating": 78
+   },
+   {
+    "id": "src-9",
+    "name": "Imran Mehta",
+    "number": 8,
+    "role": "BWL",
+    "rating": 74
+   },
+   {
+    "id": "src-10",
+    "name": "Shai Hartley",
+    "number": 17,
+    "role": "BWL",
+    "rating": 74
+   },
+   {
+    "id": "src-11",
+    "name": "Shai Nair",
+    "number": 19,
+    "role": "BWL",
+    "rating": 77
+   }
+  ]
+ },
+ {
+  "id": "evr",
+  "name": "Emerald Vale Rangers",
+  "short": "EVR",
+  "city": "Emerald Vale",
+  "ground": "Vale Green",
+  "sport": "cricket",
+  "rating": 77,
+  "formation": "4-3-3",
+  "crest": {
+   "pattern": "sash",
+   "tint": 6
+  },
+  "squad": [
+   {
+    "id": "evr-1",
+    "name": "Ravi Bancroft",
+    "number": 28,
+    "role": "BAT",
+    "rating": 84
+   },
+   {
+    "id": "evr-2",
+    "name": "Rohan Rahman",
+    "number": 23,
+    "role": "BAT",
+    "rating": 76
+   },
+   {
+    "id": "evr-3",
+    "name": "Rohan Moyo",
+    "number": 20,
+    "role": "BAT",
+    "rating": 82
+   },
+   {
+    "id": "evr-4",
+    "name": "Sunil Pillai",
+    "number": 14,
+    "role": "WK",
+    "rating": 73
+   },
+   {
+    "id": "evr-5",
+    "name": "Nikhil Sharma",
+    "number": 8,
+    "role": "BAT",
+    "rating": 82
+   },
+   {
+    "id": "evr-6",
+    "name": "Anil Hope",
+    "number": 10,
+    "role": "AR",
+    "rating": 75
+   },
+   {
+    "id": "evr-7",
+    "name": "Bilal Desai",
+    "number": 6,
+    "role": "AR",
+    "rating": 75
+   },
+   {
+    "id": "evr-8",
+    "name": "Liam Mehta",
+    "number": 30,
+    "role": "BWL",
+    "rating": 81
+   },
+   {
+    "id": "evr-9",
+    "name": "Kieran Tariq",
+    "number": 13,
+    "role": "BWL",
+    "rating": 83
+   },
+   {
+    "id": "evr-10",
+    "name": "Darren Ashby",
+    "number": 38,
+    "role": "BWL",
+    "rating": 77
+   },
+   {
+    "id": "evr-11",
+    "name": "Rashid Carter",
+    "number": 24,
+    "role": "BWL",
+    "rating": 74
+   }
+  ]
+ },
+ {
+  "id": "sbl",
+  "name": "Stonebridge Lancers",
+  "short": "SBL",
+  "city": "Stonebridge",
+  "ground": "Old Bridge Ground",
+  "sport": "cricket",
+  "rating": 74,
+  "formation": "4-4-2",
+  "crest": {
+   "pattern": "plain",
+   "tint": 7
+  },
+  "squad": [
+   {
+    "id": "sbl-1",
+    "name": "Kieran Farooq",
+    "number": 16,
+    "role": "BAT",
+    "rating": 84
+   },
+   {
+    "id": "sbl-2",
+    "name": "Tom Holder",
+    "number": 18,
+    "role": "BAT",
+    "rating": 71
+   },
+   {
+    "id": "sbl-3",
+    "name": "Kieran Pillai",
+    "number": 25,
+    "role": "BAT",
+    "rating": 83
+   },
+   {
+    "id": "sbl-4",
+    "name": "Nikhil Hartley",
+    "number": 7,
+    "role": "WK",
+    "rating": 81
+   },
+   {
+    "id": "sbl-5",
+    "name": "Kieran Kapoor",
+    "number": 5,
+    "role": "BAT",
+    "rating": 81
+   },
+   {
+    "id": "sbl-6",
+    "name": "Vikram Nair",
+    "number": 10,
+    "role": "AR",
+    "rating": 76
+   },
+   {
+    "id": "sbl-7",
+    "name": "Marlon Charles",
+    "number": 11,
+    "role": "AR",
+    "rating": 68
+   },
+   {
+    "id": "sbl-8",
+    "name": "Imran Dube",
+    "number": 6,
+    "role": "BWL",
+    "rating": 78
+   },
+   {
+    "id": "sbl-9",
+    "name": "Liam Zulu",
+    "number": 36,
+    "role": "BWL",
+    "rating": 81
+   },
+   {
+    "id": "sbl-10",
+    "name": "Dinesh Carter",
+    "number": 28,
+    "role": "BWL",
+    "rating": 78
+   },
+   {
+    "id": "sbl-11",
+    "name": "Liam Kumar",
+    "number": 22,
+    "role": "BWL",
+    "rating": 81
+   }
+  ]
+ },
+ {
+  "id": "bhk",
+  "name": "Blue Harbour Kites",
+  "short": "BHK",
+  "city": "Blue Harbour",
+  "ground": "Kite Field",
+  "sport": "cricket",
+  "rating": 72,
+  "formation": "3-5-2",
+  "crest": {
+   "pattern": "stripes",
+   "tint": 4
+  },
+  "squad": [
+   {
+    "id": "bhk-1",
+    "name": "Kagiso Chopra",
+    "number": 22,
+    "role": "BAT",
+    "rating": 72
+   },
+   {
+    "id": "bhk-2",
+    "name": "Ravi Mehta",
+    "number": 18,
+    "role": "BAT",
+    "rating": 71
+   },
+   {
+    "id": "bhk-3",
+    "name": "Kieran Desai",
+    "number": 20,
+    "role": "BAT",
+    "rating": 80
+   },
+   {
+    "id": "bhk-4",
+    "name": "Nikhil Mistry",
+    "number": 39,
+    "role": "WK",
+    "rating": 78
+   },
+   {
+    "id": "bhk-5",
+    "name": "Ravi Qureshi",
+    "number": 29,
+    "role": "BAT",
+    "rating": 67
+   },
+   {
+    "id": "bhk-6",
+    "name": "Marlon Dube",
+    "number": 21,
+    "role": "AR",
+    "rating": 79
+   },
+   {
+    "id": "bhk-7",
+    "name": "Nikhil Charles",
+    "number": 6,
+    "role": "AR",
+    "rating": 76
+   },
+   {
+    "id": "bhk-8",
+    "name": "Kunal Ashby",
+    "number": 13,
+    "role": "BWL",
+    "rating": 69
+   },
+   {
+    "id": "bhk-9",
+    "name": "Aiden Latham",
+    "number": 24,
+    "role": "BWL",
+    "rating": 69
+   },
+   {
+    "id": "bhk-10",
+    "name": "Shadab Sheikh",
+    "number": 38,
+    "role": "BWL",
+    "rating": 70
+   },
+   {
+    "id": "bhk-11",
+    "name": "Kagiso Iqbal",
+    "number": 19,
+    "role": "BWL",
+    "rating": 76
+   }
+  ]
+ },
+ {
+  "id": "acf",
+  "name": "Amber Coast Flames",
+  "short": "ACF",
+  "city": "Amber Coast",
+  "ground": "Beacon Oval",
+  "sport": "cricket",
+  "rating": 70,
+  "formation": "3-5-2",
+  "crest": {
+   "pattern": "halves",
+   "tint": 5
+  },
+  "squad": [
+   {
+    "id": "acf-1",
+    "name": "Ravi Carter",
+    "number": 9,
+    "role": "BAT",
+    "rating": 80
+   },
+   {
+    "id": "acf-2",
+    "name": "Imran Fernando",
+    "number": 2,
+    "role": "BAT",
+    "rating": 70
+   },
+   {
+    "id": "acf-3",
+    "name": "Shai Joseph",
+    "number": 26,
+    "role": "BAT",
+    "rating": 69
+   },
+   {
+    "id": "acf-4",
+    "name": "Shadab Zulu",
+    "number": 22,
+    "role": "WK",
+    "rating": 67
+   },
+   {
+    "id": "acf-5",
+    "name": "Imran Ndlovu",
+    "number": 13,
+    "role": "BAT",
+    "rating": 74
+   },
+   {
+    "id": "acf-6",
+    "name": "Vikram Pillai",
+    "number": 23,
+    "role": "AR",
+    "rating": 70
+   },
+   {
+    "id": "acf-7",
+    "name": "Sunil Kapoor",
+    "number": 30,
+    "role": "AR",
+    "rating": 66
+   },
+   {
+    "id": "acf-8",
+    "name": "Kunal Iqbal",
+    "number": 28,
+    "role": "BWL",
+    "rating": 72
+   },
+   {
+    "id": "acf-9",
+    "name": "Kunal Hope",
+    "number": 17,
+    "role": "BWL",
+    "rating": 67
+   },
+   {
+    "id": "acf-10",
+    "name": "Jason Greaves",
+    "number": 39,
+    "role": "BWL",
+    "rating": 64
+   },
+   {
+    "id": "acf-11",
+    "name": "Callum Silva",
+    "number": 18,
+    "role": "BWL",
+    "rating": 65
+   }
+  ]
+ }
+]

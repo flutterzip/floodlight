@@ -1,0 +1,70 @@
+[
+ {
+  "id": "cpl",
+  "name": "Coastal Premier League",
+  "short": "Premier",
+  "sport": "football",
+  "region": "Top flight",
+  "teams": [
+   "iru",
+   "nga",
+   "lnh",
+   "kpk",
+   "smr",
+   "dks",
+   "rct",
+   "hbc"
+  ]
+ },
+ {
+  "id": "union",
+  "name": "Union Championship",
+  "short": "Union",
+  "sport": "football",
+  "region": "Second tier",
+  "teams": [
+   "ash",
+   "csr",
+   "gwf",
+   "fwc",
+   "thu",
+   "smf",
+   "oak",
+   "mrw"
+  ]
+ },
+ {
+  "id": "abl",
+  "name": "Atlantic Basketball League",
+  "short": "ABL",
+  "sport": "basketball",
+  "region": "Pro league",
+  "teams": [
+   "cpt",
+   "kgl",
+   "lag",
+   "acc",
+   "dkr",
+   "cai",
+   "abj",
+   "nbo"
+  ]
+ },
+ {
+  "id": "t20",
+  "name": "Super Twenty Series",
+  "short": "T20",
+  "sport": "cricket",
+  "region": "Twenty over league",
+  "teams": [
+   "cbs",
+   "hvh",
+   "evr",
+   "pam",
+   "src",
+   "sbl",
+   "acf",
+   "bhk"
+  ]
+ }
+]
