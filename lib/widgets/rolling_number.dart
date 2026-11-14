@@ -128,17 +128,14 @@ class GlyphSet {
     final hit = _sets[key];
     if (hit != null) return hit;
     // Styles are few and long-lived. If something is generating them
-    // without end, start again rather than grow for ever.
-    if (_sets.length >= _most) {
-      for (final s in _sets.values) {
-        s._dispose();
-      }
-      _sets.clear();
-    }
+    // without end, forget the old sets rather than grow for ever. They are
+    // only forgotten, never disposed: a number on screen still holds its
+    // set and goes on painting with it, and a set nobody holds is collected.
+    if (_sets.length >= _most) _sets.clear();
     return _sets[key] = GlyphSet._(style, scaler);
   }
 
-  static const _most = 64;
+  static const _most = 256;
   static final _sets = <(TextStyle, TextScaler), GlyphSet>{};
 
   final TextStyle _style;
@@ -174,12 +171,6 @@ class GlyphSet {
       w += widthOf(text[i]);
     }
     return w;
-  }
-
-  void _dispose() {
-    for (final p in _painters.values) {
-      p.dispose();
-    }
   }
 }
 

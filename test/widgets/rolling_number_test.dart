@@ -113,6 +113,22 @@ void main() {
     expect(words.top, greaterThan(number.top));
   });
 
+  testWidgets('a number keeps painting after the glyph cache turns over', (
+    t,
+  ) async {
+    await t.pumpWidget(_host('41'));
+    // Far more styles than the cache holds: the oldest sets are dropped.
+    for (var i = 0; i < 600; i++) {
+      GlyphSet.of(TextStyle(fontSize: 10 + i * .01), TextScaler.noScaling);
+    }
+    // The number on screen still has its own set, and rolls with it.
+    await t.pumpWidget(_host('42'));
+    await t.pump(const Duration(milliseconds: 120));
+    expect(t.takeException(), isNull);
+    await t.pumpAndSettle();
+    expect(t.takeException(), isNull);
+  });
+
   test('glyphs are laid out once per style and shared', () {
     final a = GlyphSet.of(_style, TextScaler.noScaling);
     final b = GlyphSet.of(_style, TextScaler.noScaling);
