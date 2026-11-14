@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Dart-3.10-0175C2" alt="Dart 3.10">
   <img src="https://img.shields.io/badge/iOS%20%7C%20Android-lightgrey" alt="iOS and Android">
   <img src="https://img.shields.io/badge/state-Riverpod-7C818B" alt="Riverpod">
-  <img src="https://img.shields.io/badge/tests-149-1F7A55" alt="149 tests">
+  <img src="https://img.shields.io/badge/tests-150-1F7A55" alt="149 tests">
 </p>
 
 <p align="center">
@@ -137,7 +137,7 @@ flutter analyze
 flutter test
 ```
 
-149 tests: the engines (determinism, every score adding up, the calendar, tables), `RollingNumber` (no layout while rolling, a fixed box, a baseline), the seed (every state reachable), each screen, the whole app from splash to a pinned match, small phones at large text sizes, and guards on the source (colours only in the palette, the seed read only by repositories, no file over 500 lines).
+150 tests: the engines (determinism, every score adding up, the calendar, tables), `RollingNumber` (no layout while rolling, a fixed box, a baseline), the seed (every state reachable), each screen, the whole app from splash to a pinned match, small phones at large text sizes, and guards on the source (colours only in the palette, the seed read only by repositories, no file over 500 lines).
 
 `tool/run.sh` runs on the simulator with hot reload on a pipe, and `tool/shots.sh` retakes the screenshots above.
 
