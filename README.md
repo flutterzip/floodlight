@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Dart-3.10-0175C2" alt="Dart 3.10">
   <img src="https://img.shields.io/badge/iOS%20%7C%20Android-lightgrey" alt="iOS and Android">
   <img src="https://img.shields.io/badge/state-Riverpod-7C818B" alt="Riverpod">
-  <img src="https://img.shields.io/badge/tests-150-1F7A55" alt="149 tests">
+  <img src="https://img.shields.io/badge/tests-150-1F7A55" alt="150 tests">
 </p>
 
 <p align="center">
